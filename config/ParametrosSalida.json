@@ -1,0 +1,25 @@
+{
+    "name": {
+        "Name_Analytic_Data": "data_analytic_",
+        "Name_Predict_Data": "data_predict_"
+    },
+    "paths": {
+        "ExtCSV": ".csv",
+        "Ruta_Analytic_Data": "data/analytic/churnpostpago/periodo/",
+        "Ruta_PredictTemp_Data": "data/predict/raw/churnpostpago/periodo/",
+        "Ruta_Predict_Data": "data/predict/analytic/churnpostpago/periodo/"
+    },
+    "tabla_prediccion": {
+        "userName": "USRPREPROD",
+        "password": "TI_Soport3202010#",
+        "host": "20.228.129.81",
+        "port": "1521",
+        "sid": "DWO",
+        "tablePrefix": "pendiente"
+    },
+    "s3access": {
+        "aws_s3_bucket": "bucketforsplit",
+        "aws_access_key_id": "AKIA2CTHKZ6EMDHIKIR7",
+        "aws_secret_access_key": "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"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "name": {
+        "Name_Raw_Data": "data_raw_",
+        "Name_Analytic_Data": "data_analytic_"
+    },
+    "paths": {
+        "ExtCSV": ".csv",
+        "Ruta_Raw_Data": "data/raw/Churnpostpago/periodo/",
+        "Ruta_Analytic_Data": "data/analytic/Churnpostpago/periodo/"
+    },
+    "s3access": {
+        "aws_s3_bucket": "bucketforsplit",
+        "aws_access_key_id": "AKIA2CTHKZ6EMDHIKIR7",
+        "aws_secret_access_key": "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"
+    }
+}

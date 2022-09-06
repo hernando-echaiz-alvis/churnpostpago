@@ -1,0 +1,18 @@
+{
+    "name": {
+        "Name_Analytic_Data": "data_analytic_",
+        "Name_Analytic_Model": "lgbm_s4t2.pkl",
+        "Name_PredictTemp_Data": "data_predict_"
+    },
+    "paths": {
+        "ExtCSV": ".csv",
+        "Ruta_Analytic_Data": "data/analytic/churnpostpago/periodo/",
+        "Ruta_Analytic_Model": "model/",
+        "Ruta_PredictTemp_Data": "data/predict/raw/churnpostpago/periodo/"
+    },
+    "s3access": {
+        "aws_s3_bucket": "bucketforsplit",
+        "aws_access_key_id": "AKIA2CTHKZ6EMDHIKIR7",
+        "aws_secret_access_key": "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"
+    }
+}
